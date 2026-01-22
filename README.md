@@ -6,7 +6,7 @@
 
 
 Для запуска программы:
-python3 -m venv venv
-venv\Scripts\activate
-pip install -r requirements.txt
-venv\bin\python3 work.py
+1. python3 -m venv venv
+2. venv\Scripts\activate
+3. pip install -r requirements.txt
+4. venv\bin\python3 work.py
